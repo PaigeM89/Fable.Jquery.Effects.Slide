@@ -4,11 +4,11 @@
     <IsPackable>false</IsPackable>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Fable.Fable.JQuery.Effects.Slide.Tests.fs" />
+    <Compile Include="Fable.JQuery.Effects.Slide.Tests.fs" />
     <Compile Include="Main.fs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="../src/Fable.Fable.JQuery.Effects.Slide.fsproj" />
+    <ProjectReference Include="../src/Fable.JQuery.Effects.Slide.fsproj" />
   </ItemGroup>
   <Import Project="..\.paket\Paket.Restore.targets" />
 </Project>

@@ -7,7 +7,7 @@
     <Compile Include="App.fs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Fable.Fable.JQuery.Effects.Slide.fsproj" />
+    <ProjectReference Include="..\..\src\Fable.JQuery.Effects.Slide.fsproj" />
   </ItemGroup>
   <!-- <ItemGroup>
     <PackageReference Include="Fable.Browser.Dom" Version="2.2.0" />

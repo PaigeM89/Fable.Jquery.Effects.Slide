@@ -5,7 +5,7 @@ open Fable.JQuery.Effects.Slide
 
 let mutable isHidden = true
 
-let slideButton = document.querySelector("#my-other-button") :?> Browser.Types.HTMLButtonElement
+let slideButton = document.querySelector("#my-button") :?> Browser.Types.HTMLButtonElement
 slideButton.onclick <- fun _ ->
     if isHidden then
         jq.SlideDown("#slide-me")

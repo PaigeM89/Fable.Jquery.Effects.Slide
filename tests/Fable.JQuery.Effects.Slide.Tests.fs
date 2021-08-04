@@ -1,8 +1,8 @@
-module Fable.Fable.JQuery.Effects.Slide.Tests
+module Fable.JQuery.Effects.Slide.Tests
 
 open Fable.Core
 open Fable.Core.JsInterop
-open Fable.Fable.JQuery.Effects.Slide
+open Fable.JQuery.Effects.Slide
 open Fable.Core.Testing
 
 [<Global>]
