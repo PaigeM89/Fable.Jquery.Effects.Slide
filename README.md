@@ -1,11 +1,8 @@
-# Fable.Fable.Fable.JQuery.Effects.Slide
+# Fable.JQuery.Effects.Slide
 
+This repository shows how to wire up JQuery's slide effects in Fable.
 
-## How to use this templates ?
-
-1. Add your code into `src` folder.
-2. Add your test into `tests` folder. All the tests are run against [mocha](https://www.npmjs.com/package/mocha)
-3. You can now run `build.cmd MochaTest`. This is build the lib for you and run the tests.
+Run the example by navigating to `./example` and running `yarn start`.
 
 ### Building
 
